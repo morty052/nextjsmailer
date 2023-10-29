@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "yarn; yarn build",
+    "build": " yarn build",
     "start": "yarn start",
     "lint": "next lint",
     "lint:fix": "next lint --fix",
